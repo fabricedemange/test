@@ -3,3 +3,5 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/jgjn3854/fj-consulting.fr/test/
     - /bin/cp -R * $DEPLOYPATH
+
+    
